@@ -1,0 +1,6 @@
+1. Exists - Checks if subquery returns anything back.
+2. IN - checks if its in something. 
+3. NOT IN - Inverse Of In. 
+4. ALL- Check each row against the operator 
+and if al comparisons match return true. 
+

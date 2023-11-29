@@ -1,0 +1,11 @@
+Both joins and subqueries concatenate data.
+SubQueries can stand alone.
+Joins work on the basis of matching conditions, however, subqueries don't really need it.
+
+SUBQUERIES OUTPUT: 
+	Subqueries can result a rowset or singular value.
+	Joins can only return a row set.
+
+SUBQUERIES RESULTS:
+	Subqueries results are immediately used.
+	Joined table can be used in the outer query.

@@ -1,0 +1,8 @@
+Correlated is a popular type.
+This references one or more columns in the outer statement. 
+When we co-relate sub queries, the subquery has to be run against each row.
+
+
+Filter from_date where it equals to the max from_date from salaries
+where emp_no is equal to the current emp_no
+

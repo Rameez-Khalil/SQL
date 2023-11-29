@@ -1,0 +1,8 @@
+SubQuery: 
+	SQL query being placed another query.
+	A construct that allows you to build complex queries.
+	Also known as Inner Query Or Inner Select.
+	These can cause performance bottleneck.
+	Most oftenly used with where clause.
+	Select (MUST return single value), from and having (MUST return single value) clauses are also allowed.
+	
