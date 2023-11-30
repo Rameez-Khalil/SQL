@@ -1,0 +1,19 @@
+1. SINGLE COLUMN: 
+	1. Indexes that are used against the most frequently used column.
+	2. When we satisfy one condition
+2. MULTI COLUMN: 
+	1. Indexes that are used against most frequently used columns.
+	2. When we satisfy multiple conditions.
+
+3.Unique:
+	1. For speed and integrity.
+	Always use unique keyword.
+
+4. Partial:
+	1. Index over a subset of a table.
+	
+5. Implicit:
+	1. Automatically created by:
+		a. Database
+		b. Primary and Unique Key.
+

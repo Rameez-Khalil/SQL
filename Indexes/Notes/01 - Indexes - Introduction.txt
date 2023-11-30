@@ -1,0 +1,35 @@
+An index is a construct to improve querying performance.
+Its a pointer to data in a table.
+We generate reference to our objective of interest, find this data faster.
+
+SLOWS DOWN DATA INSERTION AND UPDATES.
+
+TYPES: 
+	1. Single Column.
+	2. Multi - column.
+	3. Unique (Primary key).
+	4. Partial (Part of your data).
+	5. Implicit (Implicit index / auto index / Done by default).
+
+
+
+//CREATING AN INDEX: 
+CREATE UNIQUE INDEX <NAME> ON <TABLE> (COL1,....);
+
+//DELETING AN IDNEX.
+DROP INDEX <NAME>;
+
+
+
+//WHEN TO USE.
+Index foreign keys.
+Index primary keys and unique cols.
+Index on cols that end up in the order by / where clause often.
+
+
+//WHEN NOT TO USE.
+	1. Small tables.
+	2. When data supposedly gets updated on a frequent basis.
+	3. When cols contain null values.
+	4. When cols have large values.
+

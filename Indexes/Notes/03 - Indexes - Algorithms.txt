@@ -1,0 +1,12 @@
+PG provides several types of indexes algorithms:
+	1. B-TREE.
+	2. Hash.
+	3. GIN.
+	4. GIST.
+
+
+Each index type uses a different algorithm.
+
+
+B-TREE: Works best with comparisons (less, lessEqual, equal,greaterEqual, Between, IN, IS NULL, IS NOT NULL).
+HASH can only handle equality checks.
