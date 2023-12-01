@@ -1,0 +1,9 @@
+
+//SYNTAX.
+Create view view_name as query;
+
+//IMP
+Views are the output of the query we ran.
+Views act like tables, therefore we can query them.
+
+
