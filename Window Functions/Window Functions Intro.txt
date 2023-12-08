@@ -1,0 +1,4 @@
+Window Functions create a new column based off of the function being performed on a subset of data.
+
+1. Partition and Order are optional. 
+2. Window function will run each time, if there are 1,000,000 rows then the function will be execute around 1mn times.
