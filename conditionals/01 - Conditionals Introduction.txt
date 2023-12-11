@@ -1,0 +1,12 @@
+1. When we want to change the outcome.
+2. case statements can be used in multiple places in a query. 
+3. Each return must be a single output. 
+
+select a, 
+	case when a=1 then 'one'
+	case when a=2 then 'two'
+		else 'other'
+	end
+
+from <table>
+  

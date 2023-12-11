@@ -1,9 +1,15 @@
+//Creating a view.
+	1. Create view view_name as query  --- Syntax.
+	2. Views are the output of the query we ran.
+	3. Views act like tables, and we can query them. 
+	4. We only store the definition of view, therefore, it takes very little
+	space. 
+//Update a view. 
+	1. Create or replace <view_name> as query. 
+//Rename a view.
+	1. Alter view <view_name> rename to <view_name> 
 
-//SYNTAX.
-Create view view_name as query;
-
-//IMP
-Views are the output of the query we ran.
-Views act like tables, therefore we can query them.
+//DELETING A VIEW.
+Drop view [if exists] <view_name> 
 
 

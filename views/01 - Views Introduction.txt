@@ -1,11 +1,11 @@
-1. What if we want to store the results of a query.
-2. Querying the results of query.
-3. Views allow you to store and query previously run queries.
-4. Materialized and Non-materialized view.
+What if we want to store the results of a query.
+What if we want to query the results of a query.
 
 
-NON MATERIALIZED: Query gets re-run each time the view is called.
-MATERIALIZED: Stores data phyysically and updates it whenever there is a change.
+Views allow us to store and query previously run queries.
 
+TYPES OF VIEWS: 
+	1. Materialized - Stores the data physically and prediocally updates it when there is a change.
+	2. Non-Materialized - Query gets re-run each time the view is called.
 
 
