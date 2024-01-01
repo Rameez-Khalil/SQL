@@ -1,0 +1,10 @@
+Database Organization:	
+	There are several tables, views etc. We want to give a method to our madness.
+	Schemas help us to organize.
+
+POSTGRES SCHEMAS: 
+	PG offers the concepts of schemas, a box in which one can organize tables, views, indexes.
+	By default each database gets a public.
+	Unless we specify the schema, the default is public.
+
+	SELECT * FROM employees === SELECT * FROM public.Employees; 

@@ -1,0 +1,19 @@
+Template0: 
+	This is used to create template1.
+	This is a backup of template1.
+	Never ever change this.
+
+Template1: 
+	This is the template that is used to create new databases.
+	This is our default.
+	Any changes that we make to the template are automatically applied to all the 
+	DBs that are extending it.
+
+
+IF TEMPLATE1 IS BEING ACCESSED, NO NEW DBS CAN BE CREATED UNTIL THE CONNECTION IS CLOSED.
+
+
+THIS IS POSSIBLE TO CREATE OUR DATABASE WITH OUR OWN TEMPLATE.
+	create database <name>
+	create table <tablename>
+	create database <name> WITH TEMPLATE <templatename>.

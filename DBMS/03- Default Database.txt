@@ -1,0 +1,13 @@
+When we setup or database, 3 databases are created.
+	1. Postgres.
+	2. Template0.
+	3. Template1.
+
+
+	A. Postgres: This is the default database that is created - INITDB.
+	
+	
+
+
+
+	

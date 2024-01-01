@@ -1,0 +1,10 @@
+COMMANDS:
+
+	1. \conninfo - checks the connection.
+	2. psql -U postgres template1  - make a connection to template1.
+	3. exit - drops the connection
+	4. Create database <name> - Create a database.
+	5. Drop Database <NAME> - Deletes a database.
+	6. \dn - Shows all the schemas.
+
+

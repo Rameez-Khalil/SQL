@@ -1,0 +1,6 @@
+CREATE DATABSE <name>
+	By using WITH we can override several aspects associated with this.
+	Template
+	Encoding
+	Connection_Limit
+	Owner
