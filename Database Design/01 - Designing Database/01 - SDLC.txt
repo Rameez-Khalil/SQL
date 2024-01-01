@@ -1,0 +1,33 @@
+SDLC: 
+	Software development life cycle.
+	1. Planning and selection - What we want.
+	2. System Analysis - What our system needs based off of what we want. 
+	3. System Design - Architecture diagrams. 
+	4. System Implementation and Orientation.
+
+
+	The goal of this process is to design robust systems.
+	This approach can be implemented in a variety of ways: 
+	 	Agile, Waterfall, V-Model.
+
+
+
+SDLC PHASES: 
+	PHASE 1: Get the information of what needs to be done?
+	PHASE 2: Based off of the information gathered, analyze if it can be done on time and budget.
+	PHASE 3: System Architecture for all related components databases, apps.
+	PHASE 4: Build the software.
+	PHASE N: TESTING MAINTENANCE.
+
+SYSTEM DESIGN:
+
+This can be achieved via 2 approaches. 
+
+	TOP-DOWN: 
+		1. We start from 0.
+	BOTTOM UP:
+		1. When we have something available at hand, we start from there - Doctor analyzing the patient.
+	
+	We will be using both of these.
+
+	

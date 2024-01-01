@@ -1,0 +1,14 @@
+Design a driving school, where people can take lessons based across USA.
+Every school has: 
+	1. instructors on payroll.
+	2. Inventory Of Cars.
+	3. Truck.
+	4. Motorcycles.
+	
+
+Requirements: 
+	1. There's a vehicle inventory for students to rent.
+	2. There are employees at every branch.
+	3. There is maintenance for vehicles.
+
+

@@ -1,0 +1,10 @@
+TYPES OF DATABASES: 
+	1. Regular (Makes use of DBMS).
+		Database that has been generated based off of the Template database.
+
+	2. Template (Sharding, backups etc.)
+		Template that provides a blue print of what a database will look like.
+		A structure that a database(regular) shall follow.
+		It is configurable.
+
+

@@ -1,0 +1,20 @@
+Different Types Of Data.
+Creating Database.
+Creating Tables.
+How to perform CRUD operations.
+
+
+DDL: 	Data Definition.
+
+	1. create.
+	2. alter.
+	3. drop
+	4. rename
+	5. truncate.
+	6. comment.
+
+DML :	Data Modification.
+
+	Insert.
+	Update
+	Delete
