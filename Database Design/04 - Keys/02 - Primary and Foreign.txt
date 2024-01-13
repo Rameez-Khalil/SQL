@@ -1,0 +1,14 @@
+PRIMARY KEY: 
+	1. Inside of a table we could've many combinations for candidate and super.
+	2. Once we have a column, that can uniquely identify our record, that becomes
+	a primary key.
+	3. Its by convention that we should be having single column selected as 
+	primary key.
+
+
+FOREGIN KEY: 
+	Reference a key from a different table.
+	Suppose, that you have an employee table, with column, id, and manager id.
+	You've another table that contains lower grade employees with a managerid column.
+	In this case, the managerid becomes the foreign key as it indicates who this
+	lower grade employee report to.

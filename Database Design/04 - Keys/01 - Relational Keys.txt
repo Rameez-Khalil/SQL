@@ -1,0 +1,12 @@
+Relation Keys: 
+	Uniquely identifies a record in a table.
+	When we are going to form a relation, we need to have keys.
+	
+
+SUPER KEY: 
+	Any combination of attributes that can uniquely identfies a record.
+	Combination of email and name, doesn't matter how many.
+
+CANDIDATE KEY: 
+	The minimal amount of attributes that can uniquely identifies a record.
+	Id and name can be called candidate key.
