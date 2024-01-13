@@ -1,0 +1,12 @@
+RELATIONAL SCHEMA: 
+	Degree - Number of columns.
+	Cardinality - Number of rows.
+	Each column is an attribute.
+	Each row is a column.
+
+
+RELATION INSTANCE: 
+	Set of data that relates to the relation schema.
+	
+
+	

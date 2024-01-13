@@ -1,0 +1,10 @@
+TOP DOWN: 
+	To create a data model based off of the requirements.
+	
+REQUIREMENTS: 
+	High level requirements.
+	User interviews.
+	Data collections.
+	Deep understanding.
+
+

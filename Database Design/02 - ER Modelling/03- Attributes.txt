@@ -1,0 +1,6 @@
+ATTRIBUTES: 
+	Giving the information to each entitiy.
+	Must be atomic - Address is not atomic.
+	Single/MultiValued, either store single/multiple.
+	
+	

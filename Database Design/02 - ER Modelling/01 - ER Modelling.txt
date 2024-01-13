@@ -1,0 +1,6 @@
+ER MODEL
+	Entity Relationship Diagram.
+	Its a diagram that functions as a way to structure high-level requirements.
+	Top down approach works on the basis of ER model.
+	You've requirements, and you need to shape the universe.
+	

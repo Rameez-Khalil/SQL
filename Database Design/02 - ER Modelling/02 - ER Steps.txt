@@ -1,0 +1,17 @@
+STEPS TO MAKE ER MODEL: 
+	1. Entities - Nouns.
+		Should hold more than one instance of data.
+	
+ENTITIES: 
+
+Student.
+School.
+Vehicle.
+Instructor.
+Maintenance.
+
+MAINTENANCE: 
+	THe reason this became an entity as it is containing multiple information.
+	If we just had to store the data of maintenance, then this would've caused an error.
+
+	
