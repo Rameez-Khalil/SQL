@@ -1,0 +1,35 @@
+SCHOOL: 
+	school_id, 
+	street_name,
+	street_number, 
+	zip_code,
+	state, 
+	city
+
+
+INSTRUCTOR:
+	teacher_id, 
+	first_name, 
+	last_name, 
+	date_of_birth, 
+	hire_date
+
+STUDENT: 
+	student_id, 
+	first_name, 
+	last_name, 
+	date_of_birth, 
+	enrollment_date
+
+EXAM: 
+	student_id, 
+	teacher_id, 
+	date_taken, 
+	passed, 
+	lesson_id
+
+LESSON: 
+	lesson_id, 
+	date_of_enrolment, 
+	student_id, 
+	

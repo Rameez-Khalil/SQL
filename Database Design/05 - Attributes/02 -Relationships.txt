@@ -1,0 +1,10 @@
+RELATIONSHIP: 
+	Linking the entities together.
+	1 to 1.
+	1 to many.
+	Many to Many.
+
+CROWS FEET: 
+	First line - relationship.
+	Second line - constraint.
+	
