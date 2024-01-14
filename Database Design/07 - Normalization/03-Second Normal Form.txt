@@ -1,0 +1,14 @@
+SECOND NORMAL FORM: 
+	The records must satisfy the first normal form.
+	All non key attributes must be fully dependent on candidate key.
+	Every table should have a primary key, and relationship between tables must be formed using foreign key.
+
+
+Rule#2
+	1. Suppose you've a table Employee, the employee table contains name, employee id, and the salary and date of salary as well.
+	To satisfy the rule#2 of Normalization, we should create another table for storing the details of salaries
+	against each employee, we then must create a relationship table / intermediate table, to keep track
+	of which salary belongs to who.
+	2. So your salaries table will've its own table with its own primary key, and employee id can be used as a primary
+	key for employee table, and the relationship table can carry the relation between two tables.
+	

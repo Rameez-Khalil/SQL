@@ -1,0 +1,19 @@
+NORMALIZATION: 
+	1. Works on the basis of bottom up. - Existing system.
+	2. ERD works on the basis of top-down - New system.
+	3. Designing a database with little or no data redundancy.
+	
+
+NORMAL FORMS: 
+	First Normal Form.
+	Second Normal Form.
+	Third Normal Form - In most cases this is the finalized normal form.
+	
+	
+
+FIRST NORMAL FORM: 
+	Every column needs to have a single value.
+	Each row should be unique, either through a single/multiple column. Not mandatory to have a primary key.
+
+
+
