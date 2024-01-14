@@ -1,0 +1,4 @@
+RULES FOR SUBJECT AREAS: 
+	1. All entities must belong to one.
+	2. An entity can only belong to one.
+	3. You can nest subject areas.

@@ -1,0 +1,19 @@
+MANY TO MANY: 
+	Technically possible, but you wouldn't want to do it.
+	It creates overhead for insert/update etc.
+	
+
+EXAMPLE: 
+	1. Suppose, you've a book table with book id, name, author etc.
+	2. You've another table of author, and these two tables have a many to many 
+	relationship, meaning multiple books can belong to multiple authors.
+	3. So for every book, we will add under the book table we will have to create a column
+	for that in the authors table to keep track.
+
+	
+This can be done effectively by adding a new table (intermediate table) which can store
+book_id and author_id.
+
+1 book can belong to multiple authors.
+1 and 1 author could've written multiple books.
+
