@@ -1,0 +1,19 @@
+THIRD NORMAL FORM: 
+	Must satisfy the second normal form.
+	Avoid transitive dependency.
+
+
+If Col-A is functionally dependent on Col-B and Col-B is functionally dependent on Col-C.
+Then Col-A is functionally dependent on C. This is known as Transitive Dependency.
+
+
+EXAMPLE: 
+Col-A: ID
+Col-B: name
+Col-C: Cars Purchased.
+
+If you know one of the above, then you can address the other two, this is known as Transitive Dependency.
+
+
+You would want to create another table for cars and store the cars purchased by each owner in a separate table.
+Refernce the relationship between two tables using a Relationship Table.

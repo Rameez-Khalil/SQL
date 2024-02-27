@@ -1,0 +1,3 @@
+FIRST NORMAL FORM: 
+	Every column needs to have a single value.
+	Each row should be unique, either through a single/multiple column. Not mandatory to have a primary key.

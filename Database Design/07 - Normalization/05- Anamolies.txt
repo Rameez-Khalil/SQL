@@ -1,0 +1,15 @@
+INSERTION ANAMOLIES: 
+	
+
+This occurs when certain attributes cannot be inserted into the database without the presence of other attributes. For example, if you have a customer record with a primary key but no associated order records, you might not be able to insert new orders for that customer.
+Inconsistent Information:
+
+Inconsistency arises when updating one part of the data leads to inconsistencies or conflicts with other parts. For instance, updating the price of a product in one place and not updating it elsewhere can result in inconsistencies.
+Redundant Information:
+
+Redundancy refers to the unnecessary repetition of data. This can lead to data inconsistency and is often associated with non-normalized databases..
+	
+
+
+UPDATION ANAMOLY: 
+	
