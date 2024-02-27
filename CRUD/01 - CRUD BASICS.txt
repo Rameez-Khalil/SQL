@@ -1,0 +1,4 @@
+CREATE - Create table <tablename> (attributes id INT auto..)
+UPDATE - Insert into <tablename> values()
+UPDATE - update <tablename> set <attributename> = <newattribute> where .
+DELETE - delete from <tablename> where condition.

@@ -1,0 +1,4 @@
+STEP#1 - Entities.
+STEP#2 - Attributes.
+STEP#3 - Relationships.
+STEP#4 - Many to Many.
